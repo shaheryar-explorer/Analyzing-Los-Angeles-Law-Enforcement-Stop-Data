@@ -2,7 +2,7 @@
 
 # Overview
 
-For this project I examine Los Angeles’s Vehicle and Pedestrian Stop Data to better understand policing trends. The data holds valuable information, such as data/time, general location, and race of individuals stopped by police. Dating back to 2010 till present, releasing the dataset was an initiative by the city to promote more transparency between law enforcement agencies and the public. 
+For this project I examine Los Angeles’s Vehicle and Pedestrian Stop Data to better understand policing trends. The data holds valuable information, such as date/time, general location, and race of individuals stopped by police. Dating back to 2010 till present, releasing the dataset was an initiative by the city to promote more transparency between law enforcement agencies and the public. 
 
 The purpose of this project is to analyze a specific region of LA (Topanga) to better understand the trends and identify potentially problematic policing habits. 
 
